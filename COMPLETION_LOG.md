@@ -23,4 +23,8 @@
 
 ## GitHub
 
-GitHub upload status is recorded after the run in this file.
+- Proxy check: `127.0.0.1:7897` was available and used for GitHub CLI
+  network operations.
+- GitHub CLI auth: logged in as `2241314647`.
+- Repository created and pushed:
+  https://github.com/2241314647/eeg-ssvep-frequency-demo
